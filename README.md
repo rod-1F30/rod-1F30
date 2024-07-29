@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rod-1F30
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+   • BEM-VINDOS AO MEU PERFIL •
+
+- 👀 Estou estudando alura.
+- 🌱 Utilizo o espaço para minha organização e compartilhação dos meus projetos 
 
 <!---
 rod-1F30/rod-1F30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
